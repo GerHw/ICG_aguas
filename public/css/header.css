@@ -1,10 +1,32 @@
 .lupa{
     color: blue;
 }
-.albert{
-    background-color: blue;
+
+.logo-icg{
+    text-align: center;
 }
 
-.setso{
-    font-size: 100px;
+.nav-bar{
+    display: flex;
+    flex-direction: column;
+}
+
+.buscador{
+    display: none;
+}
+
+.logo-busqueda{
+    flex-direction: row;
+}
+
+.sections{
+    flex-direction: row;
+}
+
+/* MEDIA QUERIES */
+@media (min-width: 769px) {
+    
+}
+@media (min-width: 1200px) {
+    
 }
